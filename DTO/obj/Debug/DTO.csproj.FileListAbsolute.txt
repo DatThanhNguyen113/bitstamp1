@@ -1,0 +1,7 @@
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\bin\Debug\DTO.dll
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\bin\Debug\DTO.pdb
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\obj\Debug\DTO.dll
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\obj\Debug\DTO.pdb
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\bin\Debug\Newtonsoft.Json.dll
+c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\DTO\bin\Debug\Newtonsoft.Json.xml
