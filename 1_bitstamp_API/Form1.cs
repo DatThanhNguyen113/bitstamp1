@@ -47,19 +47,20 @@ namespace _1_bitstamp_API
                 dto.high = double.Parse(dataGridView1.Rows[0].Cells[0].Value.ToString());
                 dto.low = double.Parse(dataGridView1.Rows[0].Cells[5].Value.ToString());
                 dto.volume = double.Parse(dataGridView1.Rows[0].Cells[4].Value.ToString());
-                BTC_USD_BUS bus = new BTC_USD_BUS();
+               BTC_USD_BUS bus = new BTC_USD_BUS();
                 bus.Insert_BTC_USD(dto);
             }
-            catch(Exception)
+            catch
             {
                 timer1.Stop();
-                MessageBox.Show(" BTC/USD API Connecting has been stopped!");
+                MessageBox.Show("BTC/USD API connect has been stopped");
                 return;
             }
             finally
             {
                 timer1.Start();
             }
+            
         }
         private void Loadding_ETH_USD()
         {
@@ -79,7 +80,7 @@ namespace _1_bitstamp_API
                 ETH_USD_BUS bus = new ETH_USD_BUS();
                 bus.Insert_ETH_USD(dto);
             }
-            catch(Exception)
+            catch
             {
                 timer1.Stop();
                 MessageBox.Show(" ETH/USD API Connecting has been stopped!");
@@ -109,7 +110,7 @@ namespace _1_bitstamp_API
                 ETH_BTC_BUS bus = new ETH_BTC_BUS();
                 bus.Insert_ETH_BTC(dto);
             }
-            catch(Exception)
+            catch
             {
                 timer1.Stop();
                 MessageBox.Show(" ETH/BTC API Connecting has been stopped!");

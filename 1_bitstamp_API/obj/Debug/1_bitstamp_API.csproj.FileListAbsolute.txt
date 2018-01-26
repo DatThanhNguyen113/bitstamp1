@@ -22,3 +22,27 @@ c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\1
 c:\users\nguyen thanh dat\documents\visual studio 2015\Projects\1_bitstamp_API\1_bitstamp_API\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\1_bitstamp_API\bin\Debug\DAO.dll
 C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\1_bitstamp_API\bin\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\1_bitstamp_API.exe.config
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\obj\Debug\1_bitstamp_API.exe
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\obj\Debug\1_bitstamp_API.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\1_bitstamp_API.exe
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\1_bitstamp_API.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\BUS.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\DTO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\BUS.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\DTO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.xml
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\bin\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\obj\Debug\1_bitstamp_API.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\obj\Debug\_1_bitstamp_API.Form1.resources
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\obj\Debug\_1_bitstamp_API.Properties.Resources.resources
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\1_bitstamp_API\obj\Debug\1_bitstamp_API.csproj.GenerateResource.Cache

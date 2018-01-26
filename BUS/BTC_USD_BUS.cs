@@ -19,7 +19,6 @@ namespace BUS
             List<BTC_USD_DTO> ls = new List<BTC_USD_DTO>();
             try
             {
-               
                 BTC_USD_DTO t = new BTC_USD_DTO();
                 HttpClient client = new HttpClient();
                 client.BaseAddress = new Uri("https://www.bitstamp.net/api/v2/ticker");
@@ -34,14 +33,9 @@ namespace BUS
                     response.Dispose();
                 }
                 client.Dispose();
-                
             }
-           
-            catch (Exception)
-            {
-                Error_Message eror = new Error_Message();
-                eror.BTC_USD_DisConnectError = "Connect has been stopped !";
-            }
+            catch(Exception)
+            { }
             return ls;
         }
         public bool Insert_BTC_USD(BTC_USD_DTO dto)

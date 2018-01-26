@@ -17,26 +17,16 @@ namespace BUS
         public static List<ETH_BTC_DTO> List_ETH_BTC()
         {
             List<ETH_BTC_DTO> ls = new List<ETH_BTC_DTO>();
-            try
+            HttpClient client = new HttpClient();
+            client.BaseAddress = new Uri("https://www.bitstamp.net/api/v2/ticker");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+            HttpResponseMessage response = client.GetAsync(client.BaseAddress + "/ethbtc").Result;
+            if (response.IsSuccessStatusCode)
             {
-              
-                HttpClient client = new HttpClient();
-                client.BaseAddress = new Uri("https://www.bitstamp.net/api/v2/ticker");
-                client.DefaultRequestHeaders.Accept.Clear();
-                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage response = client.GetAsync(client.BaseAddress + "/ethbtc").Result;
-                if (response.IsSuccessStatusCode)
-                {
-                    var data = response.Content.ReadAsStringAsync().Result;
-                    ETH_BTC_DTO u = JsonConvert.DeserializeObject<ETH_BTC_DTO>(data);
-                    ls.Add(u);
-                }
-               
-            }
-            catch
-            {
-                Error_Message eror = new Error_Message();
-                eror.BTC_USD_DisConnectError = "Connect has been stopped !";
+                var data = response.Content.ReadAsStringAsync().Result;
+                ETH_BTC_DTO u = JsonConvert.DeserializeObject<ETH_BTC_DTO>(data);
+                ls.Add(u);
             }
             return ls;
         }

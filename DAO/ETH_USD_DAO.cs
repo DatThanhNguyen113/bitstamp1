@@ -14,7 +14,7 @@ namespace DAO
         public SqlConnection conn = new SqlConnection(@"Data Source=NTDPC\SQLEXPRESS;Initial Catalog=bitstampService;Integrated Security=True");
         public bool Insert_ETH_USD(ETH_USD_DTO dto)
         {
-            string squery = string.Format("Insert into ETH_USD([Open],Last,Hight,Low,Volume,Time) values({0},{1},{2},{3},{4},GETDATE())", dto.open, dto.last, dto.high, dto.low, dto.volume);
+            string squery = string.Format("Insert into ETH_USD([Open],Last,Hight,Low,Volume,Time) values('{0}','{1}','{2}','{3}','{4}',GETDATE())", dto.open, dto.last, dto.high, dto.low, dto.volume);
             try
             {
                 conn.Open();
