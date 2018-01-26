@@ -14,7 +14,7 @@ namespace BUS
 {
     public class BTC_USD_BUS
     {
-        public static List<BTC_USD_DTO> List_BTC_USD()
+        public async  static  Task<List<BTC_USD_DTO>> List_BTC_USD()
         {
             List<BTC_USD_DTO> ls = new List<BTC_USD_DTO>();
             try
@@ -24,10 +24,10 @@ namespace BUS
                 client.BaseAddress = new Uri("https://www.bitstamp.net/api/v2/ticker");
                 client.DefaultRequestHeaders.Accept.Clear();
                 client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                HttpResponseMessage response = client.GetAsync(client.BaseAddress + "/btcusd").Result;
+                HttpResponseMessage response = await client.GetAsync(client.BaseAddress + "/btcusd");
                 if (response.IsSuccessStatusCode)
                 {
-                    var data = response.Content.ReadAsStringAsync().Result;
+                    var data =  response.Content.ReadAsStringAsync().Result;
                     BTC_USD_DTO u = JsonConvert.DeserializeObject<BTC_USD_DTO>(data);
                     ls.Add(u);
                     response.Dispose();

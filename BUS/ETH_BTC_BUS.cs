@@ -14,20 +14,24 @@ namespace BUS
 {
     public class ETH_BTC_BUS
     {
-        public static List<ETH_BTC_DTO> List_ETH_BTC()
+        public async static Task<List<ETH_BTC_DTO>> List_ETH_BTC()
         {
             List<ETH_BTC_DTO> ls = new List<ETH_BTC_DTO>();
-            HttpClient client = new HttpClient();
-            client.BaseAddress = new Uri("https://www.bitstamp.net/api/v2/ticker");
-            client.DefaultRequestHeaders.Accept.Clear();
-            client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-            HttpResponseMessage response = client.GetAsync(client.BaseAddress + "/ethbtc").Result;
-            if (response.IsSuccessStatusCode)
+            try
             {
-                var data = response.Content.ReadAsStringAsync().Result;
-                ETH_BTC_DTO u = JsonConvert.DeserializeObject<ETH_BTC_DTO>(data);
-                ls.Add(u);
+                HttpClient client = new HttpClient();
+                client.BaseAddress = new Uri("https://www.bitstamp.net/api/v2/ticker");
+                client.DefaultRequestHeaders.Accept.Clear();
+                client.DefaultRequestHeaders.Accept.Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+                HttpResponseMessage response = await client.GetAsync(client.BaseAddress + "/ethbtc");
+                if (response.IsSuccessStatusCode)
+                {
+                    var data = response.Content.ReadAsStringAsync().Result;
+                    ETH_BTC_DTO u = JsonConvert.DeserializeObject<ETH_BTC_DTO>(data);
+                    ls.Add(u);
+                }
             }
+            catch (Exception) { }
             return ls;
         }
         public bool Insert_ETH_BTC(ETH_BTC_DTO dto)
