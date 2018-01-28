@@ -10,3 +10,15 @@ C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bi
 C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.exe
 C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe.config
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\DTO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\DTO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.ProjectInstaller.resources
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.csproj.GenerateResource.Cache
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.exe
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\BitstampWINSERVICE\obj\Debug\BitstampWINSERVICE.pdb

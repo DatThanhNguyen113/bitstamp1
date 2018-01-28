@@ -164,8 +164,7 @@ namespace BitstampWINSERVICE
         }
         protected override void OnStart(string[] args)
         {
-            timer1.Start();
-            timer1.Enabled = true;
+            this.Start();
         }
         public void Start()
         {
@@ -174,8 +173,7 @@ namespace BitstampWINSERVICE
 
         protected override void OnStop()
         {
-            timer1.Stop();
-            timer1.Enabled = false;
+            this.Stop();
         }
         public void Stop()
         {
