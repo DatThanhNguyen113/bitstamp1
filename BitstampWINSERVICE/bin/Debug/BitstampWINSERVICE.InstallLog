@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.InstallLog
+   assemblypath = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe
+Installing service BitstampWinService...
+Service BitstampWinService has been successfully installed.
+Creating EventLog source BitstampWinService in log Application...
+Committing assembly 'C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.InstallLog
+   assemblypath = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe
+Installing assembly 'C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.InstallLog
+   assemblypath = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe
+Installing service BitstampWinService...
+Service BitstampWinService has been successfully installed.
+Creating EventLog source BitstampWinService in log Application...
+Committing assembly 'C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.InstallLog
+   assemblypath = C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\BitstampWINSERVICE\bin\Debug\BitstampWINSERVICE.exe

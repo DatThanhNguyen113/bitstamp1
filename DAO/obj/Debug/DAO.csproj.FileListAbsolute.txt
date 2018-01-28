@@ -1,0 +1,28 @@
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\bin\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\bin\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\bin\Debug\DTO.dll
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\obj\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\documents\visual studio 2015\Projects\1_bitstamp_API\DAO\obj\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\bin\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\bin\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\bin\Debug\DTO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\obj\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\bitstamp1\DAO\obj\Debug\DAO.pdb
+C:\Users\HP\Source\Repos\bitstamp1\DAO\bin\Debug\DAO.dll
+C:\Users\HP\Source\Repos\bitstamp1\DAO\bin\Debug\DAO.pdb
+C:\Users\HP\Source\Repos\bitstamp1\DAO\bin\Debug\DTO.dll
+C:\Users\HP\Source\Repos\bitstamp1\DAO\bin\Debug\DTO.pdb
+C:\Users\HP\Source\Repos\bitstamp1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\HP\Source\Repos\bitstamp1\DAO\obj\Debug\DAO.dll
+C:\Users\HP\Source\Repos\bitstamp1\DAO\obj\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\bin\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\bin\Debug\DAO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\bin\Debug\DTO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\bin\Debug\DTO.pdb
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\obj\Debug\DAO.dll
+C:\Users\Nguyen Thanh Dat\Desktop\New folder (2)\bitstamp1\DAO\obj\Debug\DAO.pdb
